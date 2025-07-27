@@ -71,3 +71,6 @@ Puedes personalizar fácilmente:
 - **Estilo**: Cambia la apariencia visual según tus preferencias
 
 ¡Disfruta usando tu calculadora personalizada! 🧮✨ 
+
+
+Nueva operacion
